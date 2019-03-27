@@ -12,7 +12,7 @@ namespace LearningAsync
         static void Main(string[] args)
         {
             Console.WriteLine("Downloading file");
-            Download();
+            Download();[]
             Console.ReadLine();
         }
 
